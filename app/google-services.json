@@ -1,0 +1,613 @@
+{
+  "project_info": {
+    "project_number": "303778851219",
+    "project_id": "abhiyanta-garage",
+    "storage_bucket": "abhiyanta-garage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:51445e2dc7499b78dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.Abhiyanta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-cvth9e1bs24cddem880jb3nqgr98hv0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Abhiyanta",
+            "certificate_hash": "b913b99057a664aada1a5df1a9d5ff34181b92de"
+          }
+        },
+        {
+          "client_id": "303778851219-vqsp9skcht0rb18ee0uu7tsjv8avlddc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Abhiyanta",
+            "certificate_hash": "eab56daff92ad298f4d261a209ea7f9bed474943"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:6f99794d40c115f6dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.Demolms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-030b17pdeskqptu1pdickjsrokn0on9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Demolms",
+            "certificate_hash": "eab56daff92ad298f4d261a209ea7f9bed474943"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:9a47298befd22a81dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.Deogiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-pplsoejmf6nnmbqlv9ibngcac89gpapj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Deogiri",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:82652c082c3f7181dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.Deogiriwl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-tlunu8n0cpekb30fq5uho90j94mcs5af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Deogiriwl",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:f82c6876a1e73417dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.Godhania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-n0b599f91bdbadn7in3k5sq17nv35s30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Godhania",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:d08f50f892dfb453dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.GodhaniaCollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-pp9t7pbgosvuioc7a50tsufrssno2j45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.GodhaniaCollege",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:4d1df2da2c8efff9dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.GodhaniaCollegeWl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-jq61m00d9p68ebp19l8jl3acfaheed93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.GodhaniaCollegeWl",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:f9694f96e842f5bcdc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.Godhanialms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-o41j3f03d0s7fvm2s84v37bkomuljjtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Godhanialms",
+            "certificate_hash": "eab56daff92ad298f4d261a209ea7f9bed474943"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:0f0e01d8243980b9dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.Saharsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-jlr5e3fhmjl4rpg6ubvk26niq8s0arhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.Saharsa",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:c4c68b24cec319abdc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.SaharsaWl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-j77r2u9dt5ghthqm5fepje39ihpjlm7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.SaharsaWl",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:28fc9f29d61a4b4bdc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.SaharsaclgWl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-b0t6hdghiefdog8iac5ho3ta77ltqid7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.SaharsaclgWl",
+            "certificate_hash": "da0bf9fb18ddaab592034b50f9020971d7187eb3"
+          }
+        },
+        {
+          "client_id": "303778851219-fslgfdvumaq6oteeb9hjnss00u99pab5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.SaharsaclgWl",
+            "certificate_hash": "eab56daff92ad298f4d261a209ea7f9bed474943"
+          }
+        },
+        {
+          "client_id": "303778851219-miffs6qpl6b3s6csliegobbebmrav5e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.SaharsaclgWl",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:6fba658e38a35971dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.SriSaiUniversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-lj3fb59e76c8strnqi119ovifbn9vo4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.SriSaiUniversity",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:8a2094252daeca69dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.SriSaiUniversitywL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-17nake1oa260imsm8fvu5jmpugj6l9rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.SriSaiUniversitywL",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:a120e95be8f945c3dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.civilguruji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-a2rq6m2ipvqedicvkriruqfissln3l4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.civilguruji",
+            "certificate_hash": "1f1ef77b22437735a850a913976cdee274097d55"
+          }
+        },
+        {
+          "client_id": "303778851219-b9spnrbajcl9vt865vraiso7qt761bvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.civilguruji",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-s0lr8dttkuis43nfe137sor9outoirud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.civilguruji",
+            "certificate_hash": "eab56daff92ad298f4d261a209ea7f9bed474943"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303778851219:android:8ef41e678e517d05dc6066",
+        "android_client_info": {
+          "package_name": "co.jobsearch.kdkcollegewl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303778851219-a2661q6p3a70jerr4t7pr5bupvmlqsvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.kdkcollegewl",
+            "certificate_hash": "f1a6bedc78b246ef56086bad87d487bd3080dc47"
+          }
+        },
+        {
+          "client_id": "303778851219-u1nslnkt06oo63lgubdd3j4s6odo114s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jobsearch.kdkcollegewl",
+            "certificate_hash": "12980ecf862a915bb38cfb1f68cbc70481517c9d"
+          }
+        },
+        {
+          "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YA0K_VPlditF7nzAmRU8hdmiroS1hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303778851219-thbasq5i5mii02aaei89jrnjeaekucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

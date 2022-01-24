@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/drawable/round_corner_grey.xml" value="0.2203125" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/drawable/solid_rounded.xml" value="0.21666666666666667" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity__text_web_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_account_select.xml" value="0.18518518518518517" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_blog_category.xml" value="0.18518518518518517" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_blog_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_change_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_couress_detail_pay.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_course_content_description.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_dashboard_new.xml" value="0.18518518518518517" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_edit_all.xml" value="0.18518518518518517" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_free_enrolled.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_main_youtubeplay.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_notification_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_otp_verify.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_play_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_play_video_new.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_quiz.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_signup_all.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_simple_exo_player_view_activity.xml" value="0.18518518518518517" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_video_part_description.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_video_player.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_web_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_youtube_fuuscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/activity_youtube_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/add_number_pop.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/answer_quiz_list_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/blog_catgory_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/channel_list_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/channel_sub_cat_adapter.xml" value="0.18518518518518517" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/channel_vide_list_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/channel_vide_screen_list_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/contactdetail_list_by_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/contactdetail_list_by_adapter_parts.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/contactdetail_list_by_adapter_parts_reply.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_blog_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_category_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_category_new_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_enroll_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_list_by_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_part_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_part_list_adapter.xml" value="0.22" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/couress_view_detail_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/fragment_course__content_.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/fragment_courses.xml" value="0.1824074074074074" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/fragment_description__content_.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/layout/update_available_pop.xml" value="0.20416666666666666" />
+        <entry key="..\:/SOFTFX/Demo/Demo/app/src/main/res/menu/navigation.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_2sdp"
+    android:layout_marginLeft="@dimen/_2sdp"
+    android:layout_marginRight="@dimen/_1sdp"
+    android:layout_marginBottom="@dimen/_1sdp"
+    android:elevation="@dimen/_1sdp"
+     android:id="@+id/headerContent">
+
+    <ImageView
+        android:layout_width="@dimen/_20sdp"
+        android:src="@drawable/playyyy"
+        android:id="@+id/playyyy"
+        android:layout_margin="@dimen/_5sdp"
+        android:layout_height="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_alignLeft="@+id/playyyy"
+        android:layout_height="wrap_content"
+        android:textSize="13dp"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="@dimen/_30sdp"
+        android:id="@+id/title"
+        android:padding="@dimen/_2sdp"
+        android:text="ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc ccccccccccc ccccccccccccccccccccc  cccccccccc cccccccccccc ccc ccc cccccccccc"
+        android:layout_marginTop="@dimen/_2sdp"
+         android:textColor="@color/black" />
+
+
+
+</RelativeLayout>
